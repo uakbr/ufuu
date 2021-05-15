@@ -52,10 +52,6 @@
 <br><br>
 </p>
 
-<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
-
-<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
-
 <p align="left"> <a href="" target=""> <img src="https://i.imgur.com/C43XXfw.png" alt="Currently" /> </a>
 
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
