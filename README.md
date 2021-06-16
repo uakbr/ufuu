@@ -1,9 +1,17 @@
-### 🚀 Security Systems Engineer
-#### Here's a brief overview of what I do
+Hi 👋 I'm Umair. My initials are USA.
+
+A brief overview of what I do:
+### Cloud Engineering (Advisory Analyst)
+* I work with Cloud and Infrastructure as Code (Iac)
+   * This includes **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**
+   * I deliver scalable Terraform, Serverless, and Ansible-based infrastructure that is robust, scalable, and secure.
+   * I also like to deploy via 
+
+### Security Systems Engineer
 * I architect cloud-based systems that are based on these tenets: 
    * **Resiliency** - If something "goes wrong" in the code; the program is able to self-heal or continue without affecting the entire system itself.
    * **Highly-available** - The system is *ideally* available at all times; the system converges towards an error-free state and is therefore self stabilizing.
-   * **Redundancy** - There ~~should~~ will always be multiple identical instances of the system and it will switch to one of the redundant instances in case of failover.
+   * **Redundancy** - There will always be multiple identical instances of the system and it will switch to one of the redundant instances in case of failover.
    * **Efficiency** - The above three cost a lot to achieve; my designs are extremely efficient. If there is too much code, complexity, both, or either, I will revert the changes and re-create the system until it is. Being efficient and having all three of the above is a requirement. Until that is achieved my work is not complete.
  
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
