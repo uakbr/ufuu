@@ -5,7 +5,6 @@ A brief overview of what I do:
 * I work with Cloud and Infrastructure as Code (Iac)
    * This includes **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**
    * I deliver scalable Terraform, Serverless, and Ansible-based infrastructure that is robust, scalable, and secure.
-   * I also like to deploy via 
 
 ### Security Systems Engineer
 * I architect cloud-based systems that are based on these tenets: 
