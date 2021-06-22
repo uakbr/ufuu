@@ -1,7 +1,7 @@
 Hi 👋 I'm Umair. My initials are USA.
 
 A brief overview of what I do:
-### Cloud Engineering (Advisory Analyst)
+### Cloud Engineering 
 * I work with Cloud and Infrastructure as Code (Iac)
    * This includes **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**
    * I deliver scalable Terraform, Serverless, and Ansible-based infrastructure that is robust, scalable, and secure.
